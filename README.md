@@ -4,7 +4,7 @@ A modern and responsive Adventure Landing Page built using **HTML5** and **CSS3*
 
 ## 🚀 Live Demo
 
-🔗 https://adventure-landing-page.netlify.app
+🔗 https://advanture-landing-page.netlify.app/
 
 ## 📸 Preview
 
