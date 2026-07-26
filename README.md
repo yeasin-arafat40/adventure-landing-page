@@ -12,7 +12,7 @@ A modern and responsive Adventure Landing Page built using **HTML5** and **CSS3*
 
 Example:
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](./images/screenshot.png)
 
 ## ✨ Features
 
