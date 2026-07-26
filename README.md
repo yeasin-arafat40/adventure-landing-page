@@ -8,7 +8,6 @@ A modern and responsive Adventure Landing Page built using **HTML5** and **CSS3*
 
 ## 📸 Preview
 
-> Add a screenshot of your project here.
 
 Example:
 
